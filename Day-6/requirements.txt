@@ -1,0 +1,12 @@
+# functional requirements for movie booking app
+
+# 1. Select theatre -> from multiple theatre
+# 2. shows -> select a particular show
+# 3. show -> timing + screen no
+# 4. screen -> seat configuration, availability of seats, book seats and unbook seats
+# 5. seat -> seat name, category, price, isBooked
+# 6. User session
+# 7. Payment -> block the seats
+# 8. Payment success -> allot the seats
+# 9. failure -> retries -> release the blocked seats
+# 10. concurrency issues of blocked seats
